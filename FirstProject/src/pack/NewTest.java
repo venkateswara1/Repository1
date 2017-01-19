@@ -13,19 +13,9 @@ public class NewTest {
 	
   @Test
   public void f() {
-
 	  
-	  
+	  System.out.println("Scenrio 3 - Explain");
 
-
-
-	  System.out.println("First Git Project");
-
-	  System.out.println("parallel commit");
-
-
-
-	  
 	  List<String> l1=new ArrayList<String>();
 	  l1.add("aaa");
 	  l1.add("bbb");
