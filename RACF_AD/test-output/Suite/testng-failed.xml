@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Suite]">
+  <parameter name="browser" value="IE"/>
+  <test name="IE Test(failed)">
+    <parameter name="browser" value="IE"/>
+    <classes>
+      <class name="RACFtoAD.Applications">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="Add_Application"/>
+        </methods>
+      </class> <!-- RACFtoAD.Applications -->
+    </classes>
+  </test> <!-- IE Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

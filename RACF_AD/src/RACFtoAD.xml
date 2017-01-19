@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="3"  parallel="false">
+
+ <test name="IE Test">
+  <parameter name="browser" value="IE"/>
+    <classes>
+      <class name="RACFtoAD.Applications"/>
+    </classes>  
+  <!--   <classes>
+      <class name="RACFtoAD.GroupManagement"/>
+    </classes>  -->
+</test> 
+
+   <!-- <test name="Internet Explorer Test">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="Client.DMClient"/>
+    </classes>
+  </test> 
+  
+  <test name="Firefox test">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="Client.DMClient"/>
+    </classes>
+  </test>   -->
+</suite> 
