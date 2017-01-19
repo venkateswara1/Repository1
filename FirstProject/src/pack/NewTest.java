@@ -18,7 +18,11 @@ public class NewTest {
 	  
 
 
+
 	  System.out.println("First Git Project");
+
+	  System.out.println("parallel commit");
+
 
 
 	  
