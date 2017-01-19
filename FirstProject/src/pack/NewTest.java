@@ -18,7 +18,7 @@ public class NewTest {
 	  
 
 
-	  System.out.println("Changes by Aparna");
+	  System.out.println("parallel commit");
 
 
 	  
