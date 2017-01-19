@@ -14,6 +14,7 @@ public class NewTest {
   @Test
   public void f() {
 
+	  System.out.println("parallel changes not in same line");
 	  
 	  
 
