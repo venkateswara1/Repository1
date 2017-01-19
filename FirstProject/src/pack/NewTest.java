@@ -19,7 +19,11 @@ public class NewTest {
 	//change by v
   @Test
   public void f() {
+
 	  System.out.println("ksf");
+
+	  System.out.println("1kjhdsf");
+
 	  
 	  List<String> l1=new ArrayList<String>();
 	  l1.add("aaa");
