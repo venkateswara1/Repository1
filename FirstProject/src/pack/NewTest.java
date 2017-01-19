@@ -14,19 +14,12 @@ public class NewTest {
   @Test
   public void f() {
 
+
 	  System.out.println("parallel changes not in same line");
-	  
-	  
-
-
-
-	  System.out.println("First Git Project");
-
-	  System.out.println("parallel commit");
-
-
 
 	  
+	  System.out.println("Scenrio 3 - Explain");
+
 	  List<String> l1=new ArrayList<String>();
 	  l1.add("aaa");
 	  l1.add("bbb");
