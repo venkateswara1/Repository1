@@ -15,13 +15,10 @@ public class NewTest {
   public void f() {
 
 
-	  System.out.println("Changes by Aparna");
 	  
-	  
-	  System.out.println("Scenrio 3 - Explain @@@@@");
 
 	  List<String> l1=new ArrayList<String>();
-	  l1.add("aaa");
+	  l1.add("aaa");       
 	  l1.add("bbb");
 	  l1.add("ccc");
 	  List<String> l2=new ArrayList<String>();
